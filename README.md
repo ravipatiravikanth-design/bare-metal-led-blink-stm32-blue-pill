@@ -86,7 +86,7 @@ bare-metal-led-blink-stm32-blue-pill/
 ├── LICENSE
 │
 └── images/
-    ├── compiler image.png
+    ├── compiler.png
     ├── memory mapping.png
     ├── stm32 blue pill.jpeg
     ├── stlink v2.jpeg
