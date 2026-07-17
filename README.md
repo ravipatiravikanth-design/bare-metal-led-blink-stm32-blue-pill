@@ -86,7 +86,7 @@ bare-metal-led-blink-stm32-blue-pill/
 ├── LICENSE
 │
 └── images/
-    ├── compiler.png
+    ├── compiler.jpeg
     ├── memory mapping.png
     ├── stm32 blue pill.jpeg
     ├── stlink v2.jpeg
@@ -105,7 +105,7 @@ This project uses the **GNU Arm Embedded Toolchain**, **GNU Make**, **OpenOCD**,
 # 🏗️ Build Workflow
 
 <p align="center">
-  <img src="images/compiler image.png" width="850" alt="Compiler Workflow">
+  <img src="images/compiler.jpeg" width="850" alt="Compiler Workflow">
 </p>
 
 The firmware is compiled using **arm-none-eabi-gcc**, linked with the custom **linker.ld** script, and generates the final executable (`blink.elf`) for the STM32F103CBT6.
@@ -339,7 +339,7 @@ bare-metal-led-blink-stm32-blue-pill/
 ├── LICENSE
 │
 └── images/
-    ├── compiler image.png
+    ├── compiler.jpeg
     ├── memory mapping.png
     ├── stm32 blue pill.jpeg
     ├── stlink v2.jpeg
